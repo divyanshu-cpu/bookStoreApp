@@ -1,4 +1,5 @@
 Project Summary: Bookstore
+
 Overview: The Bookstore is a web application designed to provide users with a seamless platform for discovering and managing books.
 Built using the MERN stack (MongoDB, Express.js, React, Node.js), the application leverages modern web technologies to deliver an interactive and user-friendly experience.
 Key Features:
